@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\Tests\bin\Release\ExporterSmoke.exe
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\Tests\obj\Release\ExporterSmoke.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\Tests\obj\Release\ExporterSmoke.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\Tests\obj\Release\ExporterSmoke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\Tests\obj\Release\ExporterSmoke.exe

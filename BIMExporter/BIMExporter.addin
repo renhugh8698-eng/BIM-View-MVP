@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BIMExporter</Name>
+    <Assembly>BIMExporter\BIMExporter.dll</Assembly>
+    <AddInId>8B6F26B6-9E2F-4DBE-9D78-EE7F03D86C26</AddInId>
+    <FullClassName>BIMExporter.App</FullClassName>
+    <VendorId>CODX</VendorId>
+    <VendorDescription>Lightweight BIM model exporter MVP</VendorDescription>
+  </AddIn>
+</RevitAddIns>

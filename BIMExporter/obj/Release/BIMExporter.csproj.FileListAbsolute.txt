@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\BIMExporter.dll
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\BIMExporter.pdb
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\obj\Release\BIMExporter.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\obj\Release\BIMExporter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\obj\Release\BIMExporter.dll
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\obj\Release\BIMExporter.pdb
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\net48\BIMExporter.dll
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\net48\BIMExporter.pdb
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\0.2.0\net48\BIMExporter.dll
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\0.2.0\net48\BIMExporter.pdb
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\0.3.0\net48\BIMExporter.dll
+C:\Users\Admin\Documents\Codex\2026-10-14\referenced-chatgpt-conversation-this-is-an\BIMExporter\bin\Release\0.3.0\net48\BIMExporter.pdb
